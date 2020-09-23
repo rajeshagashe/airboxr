@@ -1,0 +1,30 @@
+{
+  "title": "Material demo",
+  "main": "index.tsx",
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/guides/composition/Composition.tsx",
+  "keywords": [],
+  "name": "airboxr-fte-assignment-1-forked",
+  "version": "0.0.12",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.9.1",
+    "@material-ui/lab": "4.0.0-alpha.47",
+    "@types/lodash": "4.14.149",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "assets": "3.0.1",
+    "lodash": "4.17.15",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
